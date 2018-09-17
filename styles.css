@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/background.jpg");
+    
+}
+img {
+	float: center;
+    margin-left: 40%;
+    padding: 10px;
+	width: 150px;
+	height: 150px;
+}
+
+h1{
+    color:navy;  
+    margin-left: 40%;
+    font-size: 275%;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+#otherheader{
+    color:navy;
+    text-align: center; 
+    padding: 5px;
+    font-size: xx-large; 
+    margin-top: 3%;
+}
+
+p.song_title{
+    font-size: 150%;
+
+}
+
+p.myinsight {
+    color:navy; 
+    font-family: "Times New Roman", Times, serif;
+    font-size: 150%;
+}
+
+article{
+    margin-left: 20%;
+    margin-top: 5%;
+    padding: 10px;
+
+}
